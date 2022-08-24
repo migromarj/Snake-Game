@@ -13,7 +13,7 @@ The following items should be installed in your system:
 
 On the command line
 ```
-https://github.com/migromarj/Snake-Game.git
+git clone https://github.com/migromarj/Snake-Game.git
 cd Snake-Game
 py snake.py
 ```
